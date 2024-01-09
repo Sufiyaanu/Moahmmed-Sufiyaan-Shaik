@@ -55,7 +55,7 @@ Hello, I am Mohammed Sufiyaan Shaik !
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mohammad-SufiyanE&label=Views&color=blue&style=plastic" alt="Mohammad-Sufiyan" />
+<img src="https://komarev.com/ghpvc/?username=SufiyaanuE&label=Views&color=blue&style=plastic" alt="Sufiyaanu" />
  </p>
 
 ## Connect with me for :
@@ -66,14 +66,14 @@ Hello, I am Mohammed Sufiyaan Shaik !
   - Any new opportunity 
   
 
-![Mohammad-Sufiyan's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mohammad-Sufiyan&show_icons=true&include_all_commits=true&theme=radical)
+![Mohammed-Sufiyaan's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sufiyaanu&show_icons=true&include_all_commits=true&theme=radical)
 
 <h1 align="left">GitHub Statistics</h1>
 
-[![Mohammad-Sufiyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Sufiyan&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohammed-Sufiyaan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sufiyaanu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="https://github.com/Mohammad-Sufiyan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sufiyan&theme=tokyonight&layout=compact&" />
+<a href="https://github.com/Sufiyaanu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyaanu&theme=tokyonight&layout=compact&" />
 </a>
 </p>
