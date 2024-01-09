@@ -10,7 +10,7 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohammed Sufiyaan Shaik !
-- 🔭 I am holding an experiece of 1+ year as an Application Engineer @Remiges Pvt. Ltd.
+- 🔭 I am holding an experiece of 1+ year as an Application Engineer @Remiges Technologies Pvt. Ltd.
 - 👩‍💻 I find my technical interests in web development. 
 - 👍 I love to collaborate with people of my interest over code. I also love to participate hackathon. 
 
