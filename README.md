@@ -15,7 +15,19 @@ Hello, I am Mohammed Sufiyaan Shaik !
 - 👍 I love to collaborate with people of my interest over code. I also love to participate hackathon. 
 
 
-## Experience 
+## Experience  
+- [crux-frontend](https://github.com/Sufiyaanu/crux-frontend) 
+    - Rigel is a product which helps application administrators to manage configuration parameters and their values 
+      for one or more live applications.
+    - Most applications have configuration parameters like limits, addresses, watermarks, size limits, which are not 
+      hard-coded as part of the code. These configuration parameters are sometimes stored in relational databases 
+      together with transaction data. This is perhaps a good approach for large monolithic applications which have 
+      one database and all parts of the code connect to the same database anyway. 
+    - If an application is built to fetch configuration information from a Rigel store, then an application 
+      administrator can use the Rigel GUI to change values of parameters at run-time, while working with strict 
+      type-checking. Audit trails of updates are maintained. Client libraries are available in Java and Go.
+    - Rigel thus becomes a comprehensive, language-independent solution to configuration management challenges in a 
+      distributed modern application
  - [rigel-frontend](https://github.com/Sufiyaanu/rigel-frontend) 
     - Rigel is a product which helps application administrators to manage configuration parameters and their values 
       for one or more live applications.
