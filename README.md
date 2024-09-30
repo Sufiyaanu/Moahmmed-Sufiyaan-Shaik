@@ -10,24 +10,26 @@ You can find me here :
 
 ## About Me
 Hello, I am Mohammed Sufiyaan Shaik !
-- 🔭 I am holding an experiece of 1.6+ year as an Application Engineer @Remiges Technologies Pvt. Ltd.
+- 🔭 I am holding 2 years of experience as an Frontend Angular Developer
 - 👩‍💻 I find my technical interests in web development. 
 - 👍 I love to collaborate with people of my interest over code. I also love to participate hackathon. 
 
 
 ## Experience  
 - [crux-frontend](https://github.com/Sufiyaanu/crux-frontend) 
-    - Rigel is a product which helps application administrators to manage configuration parameters and their values 
-      for one or more live applications.
-    - Most applications have configuration parameters like limits, addresses, watermarks, size limits, which are not 
-      hard-coded as part of the code. These configuration parameters are sometimes stored in relational databases 
-      together with transaction data. This is perhaps a good approach for large monolithic applications which have 
-      one database and all parts of the code connect to the same database anyway. 
-    - If an application is built to fetch configuration information from a Rigel store, then an application 
-      administrator can use the Rigel GUI to change values of parameters at run-time, while working with strict 
-      type-checking. Audit trails of updates are maintained. Client libraries are available in Java and Go.
-    - Rigel thus becomes a comprehensive, language-independent solution to configuration management challenges in a 
-      distributed modern application
+    - Remiges Crux is both a business rules engine and a workflow engine, with its own data store for rules and workflows, a UI for rule management, and bindings for popular programming 
+      languages.
+    - As a business rules engine (BRE), Crux allows a complex business application to store all its business rules in the form of rulesets, and Crux evaluates the rules in these rulesets in a 
+      particular sequence to apply them to each entity the application needs to process. For example, the rules to deal with vendors may be stored in the form of rulesets, and every time the 
+      application needs to engage with a specific vendor, it can submit the vendor's details to Crux and query what rules apply to this vendor. This allows a variegated set of rules, plus 
+      exceptions, to be stored external to the application code and edited without restarting the application. 
+    - Crux runs as a standalone service, and accesses a private data store (a relational database) for storing its configuration information, rulesets, and transition state data. A Crux 
+      deployment includes
+      
+        - a server which offers the operations of the BRE and WFE as web service calls
+        - a data store which is used by the server
+        - a management interface via a browser-based GUI, for managing rulesets and workflows
+        - a thin client library in Go and Java to facilitate calls to the service
  - [rigel-frontend](https://github.com/Sufiyaanu/rigel-frontend) 
     - Rigel is a product which helps application administrators to manage configuration parameters and their values 
       for one or more live applications.
